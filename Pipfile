@@ -5,6 +5,7 @@ verify_ssl = true
 
 [dev-packages]
 ipykernel = "==5.*"
+flake8 = "*"
 
 [packages]
 appdirs = "==1.*"
@@ -14,6 +15,7 @@ pyparsing = "==2.*"
 python-dateutil = "==2.*"
 pytz = "*"
 six = "==1.*"
+django = "*"
 
 [requires]
 python_version = "3.7"
